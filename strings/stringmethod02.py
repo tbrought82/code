@@ -5,7 +5,7 @@ def main():
     """ Run-time code"""
     # create a small string
     lilstring = "Alta3 Research offers classes on Python coding"
-    newlist = lilstring.split(" ") # this returns a list
+    newlist = lilstring.split(" ") # this returns a list with a space delimiter
     print(newlist)
 
     # create a list of strings

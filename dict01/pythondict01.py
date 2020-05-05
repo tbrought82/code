@@ -8,7 +8,7 @@ print( switch["hostname"] )
 print( switch["ip"] )
 
 ## request a 'fake' key
-print( switch["lynx"] )
+# print( switch["lynx"] )
 
 ## request a 'fake' key with .get() method
 print( "First test - .get()" )
